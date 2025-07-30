@@ -6,11 +6,11 @@
   --header-height: 4rem;
 
   /*========== Colors ==========*/
-  --first-color: hsl(176, 88%, 27%);
-  --first-color-alt: hsl(129, 44%, 94%);
+  --first-color: lab(61.72% 46.2 32.08);
+  --first-color-alt: hsl(0, 42%, 94%);
   --second-color: hsl(34, 94%, 87%);
   --title-color: hsl(0, 0%, 13%);
-  --text-color: hsl(154, 13%, 32%);
+  --text-color: hsl(11, 13%, 32%);
   --text-color-light: hsl(60, 1%, 56%);
   --body-color: hsl(0, 0%, 100%);
   --container-color: hsl(0, 0%, 93%);
@@ -233,7 +233,7 @@ table {
 }
 
 .nav__logo-img {
-  width: 120px;
+  width: 140px;
 }
 
 .nav__menu {
